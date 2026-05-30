@@ -17,17 +17,14 @@ Ocean-aware salient object detection (OA-SOD) aims to identify and highlight the
 
 _Keywords_: Ocean-aware salient object detection; ocean-aware detection; maritime environments; deep learning, convolutional neural network; Transformer.
 
-* **FBDPN:**
+* **BIFNet:**  
+  ![BIFNet](https://github.com/jixun-dmu/BIFNet/blob/main/images/overall.png?raw=true)
 
-![FBDPN](https://github.com/jixun-dmu/FBDPN/blob/main/images/FBDPN.jpg?raw=true)
+* **FIBM:**
+![FIBM](https://github.com/jixun-dmu/BIFNet/blob/main/images/FIBM.png?raw=true)
 
-* **NSFBM:**
-
-![NSFBM](https://github.com/jixun-dmu/FBDPN/blob/main/images/NSFBM.jpg?raw=true)
-
-* **CSFDM:**
-
-![CSFDM](https://github.com/jixun-dmu/FBDPN/blob/main/images/CSFDM.jpg?raw=true)
+* **DFD:**
+![DFD](https://github.com/jixun-dmu/BIFNet/blob/main/images/DFD.png?raw=true)
 
 
 
